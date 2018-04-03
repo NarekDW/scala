@@ -10,7 +10,7 @@ public class TailRec {
 
     /*
     Recursion!
-    Exception in thread "main" java.lang.Exception: Booom!
+    Exception   in thread "main" java.lang.Exception: Booom!
         at tail_rec.TailRec.tail(TailRec.java:14)
         at tail_rec.TailRec.tail(TailRec.java:15)
         at tail_rec.TailRec.tail(TailRec.java:15)
