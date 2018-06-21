@@ -17,7 +17,7 @@ class Fish extends Food
 object A extends App {
   val bessy: Animal = new Cow
 //  bessy eat new Fish
-  bessy eat new bessy.SuitableFood
+//  bessy eat new bessy.SuitableFood
 }
 
 
